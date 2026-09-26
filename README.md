@@ -4,12 +4,19 @@
 
 ---
 
+## 📁 Google Drive Assets (Video Walkthrough & PDF Document)
+
+☁️ **Google Drive Folder**: [**View Project Video & PDF Documentation on Google Drive**](https://drive.google.com/drive/folders/1KvxznmsIdZwEnrUBBAZL95M-FI4CZ3ls?usp=sharing)
+> *Direct Link*: `https://drive.google.com/drive/folders/1KvxznmsIdZwEnrUBBAZL95M-FI4CZ3ls?usp=sharing`
+
+---
+
 ## 📹 Application Video Walkthrough Demonstration
 
 <div align="center">
   <video src="assets/demo_walkthrough.mov" width="100%" controls style="max-height: 520px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"></video>
   <br/>
-  <p><i>💡 If video playback is restricted in your browser view, <a href="assets/demo_walkthrough.mov">click here to view/download the full Screen Recording (assets/demo_walkthrough.mov)</a>.</i></p>
+  <p><i>💡 If video playback is restricted in your browser view, <a href="https://drive.google.com/drive/folders/1KvxznmsIdZwEnrUBBAZL95M-FI4CZ3ls?usp=sharing">watch on Google Drive</a> or <a href="assets/demo_walkthrough.mov">download the video walkthrough file (assets/demo_walkthrough.mov)</a>.</i></p>
 </div>
 
 ---
@@ -17,6 +24,7 @@
 ## 📄 Project Documentation & Academic Report
 
 - 📖 **Official PDF Report**: [`CraftCulture_Project_Report.pdf`](CraftCulture_Project_Report.pdf) *(Includes architecture diagrams, code math logic, syllabus matrix, and oral Viva Q&A)*.
+- ☁️ **Google Drive Mirror**: [**CraftCulture Drive Documentation**](https://drive.google.com/drive/folders/1KvxznmsIdZwEnrUBBAZL95M-FI4CZ3ls?usp=sharing)
 
 ### 👥 Development Team
 | Sr. | Student Name | Roll Number | Primary Role / Contribution |

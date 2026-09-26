@@ -169,6 +169,7 @@ def create_project_report_pdf(filename):
         [Paragraph("<b>Database Backend:</b>", body_style), Paragraph("Firebase Cloud Firestore & Local Reactive State", body_style)],
         [Paragraph("<b>Frontend Framework:</b>", body_style), Paragraph("Flutter SDK (Dart 3.x), Material Design 3", body_style)],
         [Paragraph("<b>Academic Scope:</b>", body_style), Paragraph("Complete Practical Syllabus Alignment (Practicals 1 - 24)", body_style)],
+        [Paragraph("<b>Google Drive Assets:</b>", body_style), Paragraph("<font color='#C85A32'><u>https://drive.google.com/drive/folders/1KvxznmsIdZwEnrUBBAZL95M-FI4CZ3ls?usp=sharing</u></font>", body_style)],
     ]
     t_proj_info = Table(proj_info_data, colWidths=[1.8 * inch, 4.5 * inch])
     t_proj_info.setStyle(TableStyle([
