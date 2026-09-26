@@ -190,6 +190,8 @@ def create_project_report_pdf(filename):
         [Paragraph("<b>Sr.</b>", body_style), Paragraph("<b>Student Name</b>", body_style), Paragraph("<b>Roll Number</b>", body_style), Paragraph("<b>Role / Contribution</b>", body_style)],
         [Paragraph("1", body_style), Paragraph("<b>Om Sawant</b>", body_style), Paragraph("<b>045</b>", body_style), Paragraph("Lead Developer & State Architecture", body_style)],
         [Paragraph("2", body_style), Paragraph("<b>Prity</b>", body_style), Paragraph("<b>150</b>", body_style), Paragraph("UI/UX Designer & Frontend Screens", body_style)],
+        [Paragraph("3", body_style), Paragraph("<b>Om Tripathi</b>", body_style), Paragraph("<b>083</b>", body_style), Paragraph("Backend & Firebase Firestore Setup", body_style)],
+        [Paragraph("4", body_style), Paragraph("<b>Team Member 4</b>", body_style), Paragraph("<b>Roll No. __</b>", body_style), Paragraph("Testing, QA & Viva Documentation", body_style)],
     ]
     t_team = Table(team_data, colWidths=[0.5 * inch, 2.2 * inch, 1.3 * inch, 2.3 * inch])
     t_team.setStyle(TableStyle([

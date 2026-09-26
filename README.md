@@ -31,7 +31,7 @@
 | :---: | :--- | :---: | :--- |
 | 1 | **Om Sawant** | **045** | Lead Developer & State Architecture |
 | 2 | **Prity** | **150** | UI/UX Designer & Frontend Screens |
-| 3 | **Team Member 3** | **Roll No. __** | Backend & Firebase Firestore Setup |
+| 3 | **Om Tripathi** | **083** | Backend & Firebase Firestore Setup |
 | 4 | **Team Member 4** | **Roll No. __** | Testing, QA & Viva Documentation |
 
 ---
